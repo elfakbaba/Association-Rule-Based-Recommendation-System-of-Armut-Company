@@ -9,7 +9,7 @@ from mlxtend.frequent_patterns import apriori, association_rules
 #########################
 
 # Step 1: read the armut_data.csv file
-df_ = pd.read_csv("WEEK 5 RECOMMENDATION SYSTEMS/armut_data.csv")
+df_ = pd.read_csv("elfakbaba/pythonproject/armut_data.csv")
 df = df_.copy()
 df.head()
 
