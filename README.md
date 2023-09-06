@@ -1,4 +1,4 @@
-# Association-Rule-Learning---Armut-
+# Association Rule Based Recommendation System of Armut Company
 
 ## Business Problem 
 
